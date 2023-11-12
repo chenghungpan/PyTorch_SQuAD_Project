@@ -28,11 +28,5 @@ Follow the instructions and code within the repository to:
 1. Load and preprocess the SQuAD dataset.
 2. Define and train the BERT model for question answering.
 3. Evaluate the model's performance on unseen data.
-4. Compare results and techniques with the CNN model used in the MNIST dataset project.
 
-## Contribution
-Feedback and contributions to this project are welcome. Whether you're looking to improve the model, enhance documentation, or suggest new features, your input is valued.
-
-## License
-This project is open source and available under the [MIT License](LICENSE).
 
